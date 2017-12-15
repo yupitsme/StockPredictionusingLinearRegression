@@ -1,0 +1,2 @@
+# StockPredictionusingLinearRegression
+Stock Prediction using Linear Regression
